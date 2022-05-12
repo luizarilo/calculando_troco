@@ -1,0 +1,25 @@
+h1 {
+    font-family: 'Cairo', sans-serif;
+    font-size: 30px;
+}
+
+.input-container {
+    font-family: 'Comfortaa', cursive;
+}
+
+.content {
+    text-align: center;
+    margin: 10px;
+    font-family: 'Comfortaa', cursive;
+    font-size: 15px;
+}
+
+button {
+    background-color: #0088FF;
+    color: #FFFF;
+    border: 1.5px solid;
+    border-color: #000;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
